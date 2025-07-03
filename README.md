@@ -30,7 +30,7 @@ Etapa 3:
 
 	Nome das ferramentas: Amazon RDS e Amazon CloudWatch
 
-	Focos da ferramentas: Banco de dados gerenciado com monitoramento integrado para otimização e alertas proativos.
+	Focos das ferramentas: Banco de dados gerenciado com monitoramento integrado para otimização e alertas proativos.
 
 	Descrição de caso de uso: Migrar bancos de dados para Amazon RDS com escalabilidade e backups automáticos, reduzindo custos de manutenção e riscos de downtime. Utilizar CloudWatch para monitorar métricas e configurar alertas para ajustar recursos antes que ocorra sobrecarga ou uso ineficiente.
 
